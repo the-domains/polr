@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Path Of Least Resistance]]></title>
+        <description><![CDATA[Path Of Least Resistance]]></description>
+        <link>https://thegrid.ai/polr/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 18:57:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/polr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from P.O.L.R. Strategies (@POLRstrategies): "Quantifying Peace and its Benefits https://t.co/6Z7BV9cz1X"</p>]]></description>
+            <link>https://twitter.com/POLRstrategies</link>
+            <guid isPermaLink="false">3f15807c-b2a5-480f-a785-a80d5839fed3</guid>
+            <pubDate>Fri, 11 Dec 2015 18:57:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/656131022900166656/PZVIRV4b.png">]]></description>
+            <link>https://thegrid.ai/polr/32a79179-697b-40eb-baa4-129547f1fb54/index.html</link>
+            <guid isPermaLink="false">32a79179-697b-40eb-baa4-129547f1fb54</guid>
+            <pubDate>Fri, 11 Dec 2015 18:57:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
