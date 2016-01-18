@@ -4,8 +4,15 @@
         <description><![CDATA[Path Of Least Resistance]]></description>
         <link>https://thegrid.ai/polr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 18:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jan 2016 18:19:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/polr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/656131022900166656/PZVIRV4b.png">]]></description>
+            <link>https://twitter.com/POLRstrategies</link>
+            <guid isPermaLink="false">32a79179-697b-40eb-baa4-129547f1fb54</guid>
+            <pubDate>Mon, 18 Jan 2016 18:18:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[POLR Tweets]]></title>
             <description><![CDATA[<article><h1>POLR Tweets</h1><p>The latest Tweets from P.O.L.R. Strategies (@POLRstrategies): "Quantifying Peace and its Benefits https://t.co/6Z7BV9cz1X"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af2169cc9733772ae4206c1c5c1f2d612ee47b2a.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/polr/7fdf1b74-c7ce-44dc-b2e2-048ee6e067eb/index.html</link>
             <guid isPermaLink="false">7fdf1b74-c7ce-44dc-b2e2-048ee6e067eb</guid>
             <pubDate>Sat, 12 Dec 2015 04:06:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/656131022900166656/PZVIRV4b.png">]]></description>
-            <link>https://thegrid.ai/polr/32a79179-697b-40eb-baa4-129547f1fb54/index.html</link>
-            <guid isPermaLink="false">32a79179-697b-40eb-baa4-129547f1fb54</guid>
-            <pubDate>Fri, 11 Dec 2015 18:57:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
