@@ -1,7 +1,7 @@
 name: POLR
 favicon: null
-layout_spectrum: 0.27892
-typography_spectrum: 0.5046
+layout_spectrum: 1
+typography_spectrum: 0.39013
 title: Path Of Least Resistance
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3b7a07'
     - '#000000'
     - '#00ff00'
-  brandStrength: 0.9499438963830471
-  lightness: 0.2719482097309083
-  saturation: 0.4635659682098776
-  rhythmicContrast: 0.7444612528197467
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
