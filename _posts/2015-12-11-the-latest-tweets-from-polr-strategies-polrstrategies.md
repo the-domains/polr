@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'The latest Tweets from P.O.L.R. Strategies (@POLRstrategies): "Quantifying Peace and its Benefits https://t.co/6Z7BV9cz1X"'
-datePublished: '2016-01-18T18:13:02.827Z'
+datePublished: '2016-01-18T18:13:02.899Z'
 dateModified: '2016-01-18T18:12:58.482Z'
 author:
   - name: polrstrategies
