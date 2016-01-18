@@ -1,4 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/POLRstrategies'
+inLanguage: null
+starred: true
+keywords: []
+description: 'The latest Tweets from P.O.L.R. Strategies (@POLRstrategies): "Quantifying Peace and its Benefits https://t.co/6Z7BV9cz1X"'
+datePublished: '2016-01-18T18:13:02.827Z'
+dateModified: '2016-01-18T18:12:58.482Z'
 author:
   - name: polrstrategies
     url: 'http://twitter.com/polrstrategies'
@@ -20,25 +30,20 @@ author:
           - 186
           - 111
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords: []
-description: 'The latest Tweets from P.O.L.R. Strategies (@POLRstrategies): "Quantifying Peace and its Benefits https://t.co/6Z7BV9cz1X"'
 app_links: []
-isBasedOnUrl: 'https://twitter.com/POLRstrategies'
-datePublished: '2015-12-11T18:57:43.709Z'
-dateModified: '2015-12-11T18:49:42.703Z'
-title: ''
+title: POLR Tweets
 sourcePath: _posts/2015-12-11-the-latest-tweets-from-polr-strategies-polrstrategies.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
 > The latest Tweets from P&period;O&period;L&period;R&period; Strategies &lpar;&commat;POLRstrategies&rpar;&colon; "Quantifying Peace and its Benefits https&colon;&sol;&sol;t&period;co&sol;6Z7BV9cz1X"
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07a1e382-34c8-4984-b61b-23d8ec9a6a9b.jpg)
